@@ -1,0 +1,5 @@
+.env
+program/images/**
+program/images
+backup/**
+
