@@ -2,4 +2,4 @@
 program/images/**
 program/images
 backup/**
-
+program/.ipynb_checkpoints/** */
